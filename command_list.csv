@@ -1,0 +1,136 @@
+    1  cd 
+    2  cd :/
+    3  cd /c/Users/Vera/Desktop/QA35
+    4  clear
+    5  pwd
+    6  ls -1
+    7  ls -l
+    8  touch test.txt
+    9  ls -l
+   10  vin test.txt
+   11  vim test.txt
+   12  cat text.txt
+   13  cat test.txt
+   14  mkdir taras
+   15  ls -l
+   16  cp test.txt taras/
+   17  ls -l
+   18  cd taras/
+   19  ls -l
+   20  rm test.txt
+   21  ls -l
+   22  ping google.com
+   23  date
+   24  systeminfo
+   25  ls -l
+   26  cd ../
+   27  attrib +r test.txt
+   28  ls -l
+   29  clear
+   30  git clone 
+   31  git clone https://github.com/Vira91/GitQA35.git
+   32  cd GitQA35
+   33  git config --global user.name "Vira Hrinenko"
+   34  git config --global user.email "glebovavera21@gmail.com"
+   35  touch file.txt
+   36  ls -l
+   37  git status
+   38  git add file.txt
+   39  git status
+   40  git comit -m "First comit"
+   41  git commit -m "First commit"
+   42  git push 
+   43  git branch
+   44  git checkout -b test
+   45  git branch
+   46  touch test2
+   47  ls -l
+   48  git status
+   49  git add test2
+   50  git status
+   51  git commit -m "Second"
+   52  git checkout main
+   53  git merge test2
+   54  git push
+   55  cd '/c/Users/Vera/Desktop/Home Work Hrinenko'
+   56  c && rm ~/.bash_history
+   57  -c && rm ~/.bash_history
+   58  [200~Wenn es darum geht, die Liebe zu finden, kommt man an der Parship Group nicht vorbei. Als Teil der ParshipMeet Group gehören wir mit unseren international erfolgreichen Marken Parship, ElitePartner, eharmony und LOVOO zu den weltweit größten Akteuren der Dating-Branche. Mit unseren Matchmaking-Services Parship, ElitePartner und eharmony sorgen wir seit mehr als 20 Jahren dafür, dass Menschen die Beziehung finden, die sie glücklich macht. Unsere Social Dating-App LOVOO eröffnet insbesondere jungen Leuten die Möglichkeit, Freundschaften zu schließen und sich zu verlieben. Dafür geben wir täglich alles – mit unserem über 450-köpfigen Team in unseren Offices in Hamburg (Hauptsitz), Dresden, Berlin, Los Angeles, London und Amsterdam. Das ist mehr als nur ein Job. Bist du bereit, Teil unseres #TeamLove zu werden?
+   59  clear
+   60  git config --global user.name "Hrinenko Vira"
+   61  git config --global email "glebovavera21@gmail.com"
+   62  git config --global user.email "glebovavera21@gmail.com"
+   63  git clone https://github.com/Vira91/HW10-Hrinenko.git
+   64  cd HW
+   65  cd'/c/Users/Vera/Desktop/Home Work Hrinenko'
+   66  touch "text_ignore.txt"
+   67  git status
+   68  git add
+   69  git add*
+   70  git commit -m "text_ignore.txt"
+   71  touch "main_test/txt"
+   72  ls -l
+   73  touch main_test.txt
+   74  git add*
+   75  git commit -m "main_test.txt"
+   76  git commit -m main_test.txt
+   77  git add "main_test.txt"
+   78  git add main_test.txt
+   79  ls-l
+   80  ls
+   81  git add main_test.txt
+   82  git add HW10-Hrinenko
+   83  ls
+   84  git status
+   85  cd'/c/Users/Vera/Desktop/Home Work Hrinenko/HW10-Hrinenko'
+   86  touch main_test.txt
+   87  git add main_test.txt
+   88  git add "main_test.txt"
+   89  git status
+   90  Desktop/Home Work Hrinenko
+   91  cd [200~  
+   92  touch main_test.txt
+   93  git add main_test.txt
+   94  cd/c/Users/Vera/Desktop/HW10
+   95  git clone https://github.com/Vira91/HW10-Hrinenko.git
+   96  cd /c/HW10
+   97  git clone https://github.com/Vira91/HW10-Hrinenko.git
+   98  git config --global user.name"Vira"
+   99  ls-l
+  100  cd HW10-Hrinenko
+  101  git config --global user.name "Vira Hrinenko"
+  102  git config --global user.email "glebovavera21@gmail.com"
+  103  touch text_ignore.txt
+  104  vim .gitignore
+  105  git status
+  106  git add .gitignore
+  107  git status
+  108  git commit -m"first commit"
+  109  git push
+  110  git add text_ignore.txt
+  111  git cimmit -m"two commit"
+  112  git push
+  113  ls -l
+  114  touch main_test.txt
+  115  git add main_test.txt
+  116  git status
+  117  git commit -m"main_test.txt"
+  118  git push
+  119  git branch
+  120  git checkout -b "develop"
+  121  git branch
+  122  touch develop_test.txt
+  123  ls -l
+  124  git status
+  125  git add develop_test.txt
+  126  git status
+  127  git commit -m"second"
+  128  vim develop_test.txt
+  129  git status
+  130  git add develop_test.txt file
+  131  git add develop_test.txt
+  132  git commit -m"three commit"
+  133  git checkout main
+  134  git merge develop
+  135  git log
+  136  history > command_list.csv
